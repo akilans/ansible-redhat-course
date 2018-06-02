@@ -1,0 +1,1 @@
+# ansible-redhat-course
