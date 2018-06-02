@@ -1,1 +1,1 @@
-# ansible-redhat-course
+# Notes from "Red Hat Delivery Specialist - Cloud Automation" course
